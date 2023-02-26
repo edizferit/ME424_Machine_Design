@@ -20,7 +20,7 @@ Designing a bolted joint by choosing a suitable property class, diameter, and pr
 
 ### Project 3: Spring Design
 
-Designing a spring that has lowest cost and safe against fatigue and buckling failures with an infinite fatigue life.
+Designing a spring that has the lowest cost. Even if the spring closes solid, the shear stress must not exceed shear yield strength. Safety factor against spring surge must be at least 5. Infinite fatigue life is desired. Safety factor against fatigue failure should be at least 1.2. Springs should also be safe against buckling failure.
 
 <p align="center">
   <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p3.jpg?raw=true" width="50%">
