@@ -7,7 +7,7 @@ Design projects for Boğaziçi University's **Machine Design II** (ME 424) class
 Designing a planetary gear that will transmit the maximum amount of power with the given specifications and constraints. The design requires a bending safety factor at least 1.5 and a surface safety factor of at least 1.2 with 99 % reliability. Safe use of $1\times 10^{8}$ revolutions of the arm is required. 
 
 <p align="center">
-  <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p1.jpg?raw=true" width="50%">
+  <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p1.jpg?raw=true" width="40%">
 </p>
 
 ### Project 2: Bolted Joint Design
@@ -15,7 +15,7 @@ Designing a planetary gear that will transmit the maximum amount of power with t
 Designing a bolted joint such that the lowest of the safety factors for the possible failure modes is above 1.6 and the cost is minimum.
 
 <p align="center">
-  <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p2.jpg?raw=true" width="50%">
+  <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p2.jpg?raw=true" width="40%">
 </p>
 
 ### Project 3: Spring Design
@@ -23,7 +23,7 @@ Designing a bolted joint such that the lowest of the safety factors for the poss
 Designing a spring that has lowest cost and safe against fatigue and buckling failures with an infinite fatigue life.
 
 <p align="center">
-  <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p3.jpg?raw=true" width="60%">
+  <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p3.jpg?raw=true" width="50%">
 </p>
 
 **The governing equation:**
