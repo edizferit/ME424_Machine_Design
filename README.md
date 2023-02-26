@@ -12,7 +12,7 @@ Designing a planetary gear that will transmit the maximum amount of power with t
 
 ### Project 2: Bolted Joint Design
 
-Designing a bolted joint such that the lowest of the safety factors for the possible failure modes is above 1.6 and the cost is minimum.
+Designing a bolted joint by choosing a suitable property class, diameter, and preload for the bolt such that the lowest of the safety factors for the possible failure modes is above 1.6 and the cost is minimum. Equilibrium and compatibility principles are used.
 
 <p align="center">
   <img src="https://github.com/edizferit/Machine_Component_Design_Optimization/blob/main/figures/p2.jpg?raw=true" width="40%">
